@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.ios.vendored_framework = 'QNLiveRTCSDK/YouinRTC.framework'
+  s.ios.vendored_framework = 'QNLiveRTCSDK.framework'
 
   s.dependency 'AFNetworking','~> 4.0.1'
   s.dependency 'MJExtension','~> 3.3.0'
